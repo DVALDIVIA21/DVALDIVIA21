@@ -1,4 +1,4 @@
-![This is me](https://github.com/DVALDIVIA21/DVALDIVIA21/blob/main/WIN_20230504_19_54_06_Pro.jpg)
+![This is me](https://github.com/DVALDIVIA21/DVALDIVIA21/blob/main/WhatsApp%20Image%202023-05-01%20at%207.03.19%20PM.jpg)
 ```javascript
 const KeepCoding = {
 code: [
